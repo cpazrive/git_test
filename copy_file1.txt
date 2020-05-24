@@ -2,5 +2,6 @@ Línea 1 del file 1
 Línea 2 del file 1
 Línea 3 del file 1
 Línea 4 del file 1
+Línea 6 del file 1
 Fin
 
