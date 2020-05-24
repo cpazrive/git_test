@@ -1,0 +1,5 @@
+File 1
+Línea 1 del file 1
+Línea 2 del file 1
+Fin
+
