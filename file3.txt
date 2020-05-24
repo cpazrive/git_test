@@ -1,0 +1,4 @@
+File 3
+Línea 1 file 3
+Línea 2 file 3
+Fin
